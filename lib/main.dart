@@ -107,7 +107,7 @@ final hubConfig = HubConfig(
       'Ô chữ, đoán từ, tốc độ và đấu chữ trong một ứng dụng',
       'Palaisipan, hulaan, bilis at duwelo sa iisang app',
     ],
-  seedColor: const Color(0xFF3E6FB0),
+  seedColor: const Color(0xFF7644D3),
   icon: Icons.abc_rounded,
   games: [
     cengelConfig,

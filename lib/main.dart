@@ -30,7 +30,7 @@ import 'package:oyun_kriptogram/oyun_kriptogram.dart';
 import 'package:oyun_petege_harf/oyun_petege_harf.dart';
 import 'package:oyun_sifreli_bulmaca/oyun_sifreli_bulmaca.dart';
 import 'package:oyun_ters_kelime_anagram_yarisi/oyun_ters_kelime_anagram_yarisi.dart';
-import 'approved_hub.dart';
+import 'package:studio_core/app/hub.dart';
 
 /// Kelime Oyunları: bulmaca ve ızgara, bul ve kur, tahmin, hız, anlam ve
 /// rakibe karşı kelime oyunlarını tek uygulamada toplar. Her oyunun kaydı,
@@ -107,7 +107,7 @@ final hubConfig = HubConfig(
       'Ô chữ, đoán từ, tốc độ và đấu chữ trong một ứng dụng',
       'Palaisipan, hulaan, bilis at duwelo sa iisang app',
     ],
-  seedColor: const Color(0xFF7644D3),
+  seedColor: const Color(0xFF3E6FB0),
   icon: Icons.abc_rounded,
   games: [
     cengelConfig,

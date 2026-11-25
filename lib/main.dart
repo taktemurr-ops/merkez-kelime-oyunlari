@@ -30,7 +30,10 @@ import 'package:oyun_kriptogram/oyun_kriptogram.dart';
 import 'package:oyun_petege_harf/oyun_petege_harf.dart';
 import 'package:oyun_sifreli_bulmaca/oyun_sifreli_bulmaca.dart';
 import 'package:oyun_ters_kelime_anagram_yarisi/oyun_ters_kelime_anagram_yarisi.dart';
+import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
+
+import 'approved_style.dart';
 
 /// Kelime Oyunları: bulmaca ve ızgara, bul ve kur, tahmin, hız, anlam ve
 /// rakibe karşı kelime oyunlarını tek uygulamada toplar. Her oyunun kaydı,
@@ -404,4 +407,4 @@ final hubConfig = HubConfig(
   ],
 );
 
-void main() => bootstrapHub(hubConfig);
+void main() => bootstrapApprovedHub(hubConfig, approvedStyle);

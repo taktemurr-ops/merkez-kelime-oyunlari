@@ -122,19 +122,19 @@ dependencies:
   oyun_kelime_kurma_tahtasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-kurma-tahtasi
-      ref: 0d12de01727bfd61b136af65df2929e11f6c63cf
+      ref: f52ffcd409b2f8318c4c390cdec002f5557f39b2
   oyun_kelime_duellosu:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-duellosu
-      ref: b6d4c2acd6bd48a71f365c0d38ca8c98e02960ed
+      ref: e4c324c21667518a3d2fa536971c82e3f8ec9468
   oyun_kelime_zinciri:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-zinciri
-      ref: fd96d53e0a45eb6cbaf6f62346780e321d557ba0
+      ref: 6b45b5b18384e443f9d95520ec332bd4d8d8134e
   oyun_harf_ve_sayi_yarisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-harf-ve-sayi-yarisi
-      ref: 48f7598fe307218ddc1a80eab10f830c543bc7df
+      ref: 93fcb3ca8df15da1a2d4de8c590ca94f80fe1075
   oyun_kelime_tahmini_cesit_paketi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-tahmini-cesit-paketi
@@ -156,7 +156,7 @@ dependency_overrides:
   kelime_motoru:
     git:
       url: https://github.com/taktemurr-ops/kelime-motoru
-      ref: dce048c68065044cb9ea41bd58a949785304fe2d
+      ref: bb5f947510c0ac2a2d66ed83b3b64c7f0d281833
 
 dev_dependencies:
   flutter_test:

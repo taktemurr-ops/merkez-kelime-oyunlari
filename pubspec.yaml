@@ -13,132 +13,132 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: f730839949a9fc1ad4e685a525a41a02d9873757
+      ref: 92d96c2ed9c0ab3fe539aeafcf8c61c3ca8f78ce
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_cengel_bulmaca:
     git:
       url: https://github.com/taktemurr-ops/oyun-cengel-bulmaca
-      ref: 8154b7e4e0a9e538f6bf751af3f7da104022f318
+      ref: a3270334e313d688e7d325130c41ea9e6315f5b5
   oyun_kare_bulmaca:
     git:
       url: https://github.com/taktemurr-ops/oyun-kare-bulmaca
-      ref: a09e008f24e5fb95ddfb64f2b534f2a372e8747d
+      ref: fb0238a89ce8d18a60fb86faf2ec8ba20c7c12a7
   oyun_sifreli_bulmaca:
     git:
       url: https://github.com/taktemurr-ops/oyun-sifreli-bulmaca
-      ref: fbfbea6bfe84e4765f12e96ec57589db7e0f54a6
+      ref: 61428eae76c8c317862b79b6cbfbe3835560d861
   oyun_kriptogram:
     git:
       url: https://github.com/taktemurr-ops/oyun-kriptogram
-      ref: cbd83d8583a1b99d4a2ccaa0d51bdcf132f65f4c
+      ref: afbb7c5292e4f056dc045c9cdd2e79c1a9933776
   oyun_kelime_sudoku:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-sudoku
-      ref: 67c54ce5d26a1effb3d73b2616d970f432752b3b
+      ref: 04c069054e3601bf0e84bce5c3faf20bcfa5d962
   oyun_kelime_kafesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-kafesi
-      ref: 19f578d00427dd4637409e56c047206977fa7794
+      ref: 9b32b5acaa234e6cb3e790b1b3225af6a5fcd4c2
   oyun_akrostis:
     git:
       url: https://github.com/taktemurr-ops/oyun-akrostis
-      ref: b396c8cfed2b87d1984580cb7b0730fbfd5dad37
+      ref: f4ebe1aa843dc8debb14d10f4f740d01959a7180
   oyun_kelime_avi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-avi
-      ref: 94345eae4c548ca07bc9e35427285c23227c1676
+      ref: 5c558d7bc679af31c2dc6629c90ed5712fac9769
   oyun_kelime_turetme:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-turetme
-      ref: 7cd1098b0d93539a2c5753485d7d5d10b7eb3ea4
+      ref: 53209925949fa492b5c97f6ab4a1d6d4424a4637
   oyun_kelime_yigini:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-yigini
-      ref: 901eba441f9c249c64bd5e0d5a6c795595ae9e85
+      ref: 9e0f6359f19298a34c4300efad4e8eae5b82c0e2
   oyun_petege_harf:
     git:
       url: https://github.com/taktemurr-ops/oyun-petege-harf
-      ref: c4fbf24f3a8182851449e8d00fbf70fc0dc547c7
+      ref: 50c0e07d616fd9c52f7a247efa7138118906d33c
   oyun_harf_izgarasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-harf-izgarasi
-      ref: e4ccfb9902f375449652769e61f0f6aa2120bcc7
+      ref: fe4d9c620a572b0a1af2fe814db54d9a0dcab855
   oyun_kelime_bloklari:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-bloklari
-      ref: 7c23ab2b8bc8c686830d838b97256f9d62de17bf
+      ref: d5f5d8b6e125bd99a36391a3ddfa15de708951a4
   oyun_kelime_yapbozu:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-yapbozu
-      ref: 6aacf608eb93a61f9089e7d89cd803c1395d6fa4
+      ref: f0b5edc748499910d955449269f1516684010d94
   oyun_bosluk_doldurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosluk-doldurma
-      ref: 6b5f30848ffbe1cf4bbd8c68134db242885adc39
+      ref: f19eb7bdba771cc98582981aba7b3727e7fc29ba
   oyun_5_harfli_kelime_tahmini:
     git:
       url: https://github.com/taktemurr-ops/oyun-5-harfli-kelime-tahmini
-      ref: 4d6b53fef78e6d2655dc04be80c67476e7744609
+      ref: 9e19e6aed13aa3222c4ac349efb84be0e19271a5
   oyun_adam_asmaca:
     git:
       url: https://github.com/taktemurr-ops/oyun-adam-asmaca
-      ref: 2382b46f4b4fc93b06ed233ffb937d435aa39f68
+      ref: 9f7e41068e9026afedc45fb34508b5fa25c3757c
   oyun_kelime_merdiveni:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-merdiveni
-      ref: d14c18fff8097e27e2687c63b85af8e78c0628f4
+      ref: 35c1a4955e04c5ae0b252711247c7c8e9d840b75
   oyun_harf_kaydirma:
     git:
       url: https://github.com/taktemurr-ops/oyun-harf-kaydirma
-      ref: af0b5b620195274219adfd015556b5d546d4a3ec
+      ref: f2a9320bfd865d2f31fc39e9af67997dee534bd4
   oyun_klavye_hiz_oyunu:
     git:
       url: https://github.com/taktemurr-ops/oyun-klavye-hiz-oyunu
-      ref: edcaacffaf2cebf6b46c2da7aa6bad16ec11fabe
+      ref: 5ab9226980cc16399fab34c82bed2f402f9695b1
   oyun_dusen_harfler:
     git:
       url: https://github.com/taktemurr-ops/oyun-dusen-harfler
-      ref: ea720bff70e7a222fc55e531f4bb9d9a11cf6c2a
+      ref: 5c84ba32e77ac82ffdf07e93ac86b00cb0268c9c
   oyun_ters_kelime_anagram_yarisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-ters-kelime-anagram-yarisi
-      ref: 8beb796e4aaf58165baec4bd68c3412bb764059c
+      ref: 2297c1118bfa2f5693f4f18a189a3706bc249f68
   oyun_es_zit_anlam_eslestirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-es-zit-anlam-eslestirme
-      ref: 44868fa45bb884c52b122d7c5f49c244e3edf290
+      ref: c2b14b5266259b9b5fbc6f8bc5c6c1dcda546590
   oyun_kelime_gruplama:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-gruplama
-      ref: 74edcbe5a245bd821971dce315106da9d7692a6b
+      ref: 5c084b97e4b32aa23e374df52bbb0adc951d9fdc
   oyun_atasozu_ve_deyim_tamamlama:
     git:
       url: https://github.com/taktemurr-ops/oyun-atasozu-ve-deyim-tamamlama
-      ref: ac968e0e4ae56658b751e6c84dfff3073a5447de
+      ref: 72cfbb176be38b6830672fb6a6f83a32c59ca8b5
   oyun_heceleme_ve_yazim:
     git:
       url: https://github.com/taktemurr-ops/oyun-heceleme-ve-yazim
-      ref: 8b49e77d8aa2e7bdbe4dabcebae77c380ee4ed07
+      ref: a23c2befd641c1fe2f0784922b49bb75ce543568
   oyun_kelime_kurma_tahtasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-kurma-tahtasi
-      ref: c2e5843886040dc1186b77808560380cddbe3a60
+      ref: b6411fe1055692ea15e5d8090f0b7a490e9a5803
   oyun_kelime_duellosu:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-duellosu
-      ref: c6f78e13cc0baeb66d0606f73ffba4533425ee2b
+      ref: f96989c6ff8a37ab25f5af59edce416b4b7d5790
   oyun_kelime_zinciri:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-zinciri
-      ref: 90dbc3f3259837f6cf7ad8bbab4d41a165aaee6d
+      ref: 93dc1ccd0bbf389d7221bbc0a45c296cede6b340
   oyun_harf_ve_sayi_yarisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-harf-ve-sayi-yarisi
-      ref: 0384a44613152d9de1d66464cd9cf2a571736b4a
+      ref: 62562961edd9aa6377e2a0523bdfb510e5e6876e
   oyun_kelime_tahmini_cesit_paketi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kelime-tahmini-cesit-paketi
-      ref: 727bb1f0e16520875cfe1107bc38ada65372fd00
+      ref: 74f03fc6c701c0ba48dd2fd4fc6d69aa1d8f07ff
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -152,11 +152,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: f730839949a9fc1ad4e685a525a41a02d9873757
+      ref: 92d96c2ed9c0ab3fe539aeafcf8c61c3ca8f78ce
   kelime_motoru:
     git:
       url: https://github.com/taktemurr-ops/kelime-motoru
-      ref: 61f602c6b8e27b109cf9e7daadfbc164a476d3b0
+      ref: 205c77ee0b8f57a516f40479b3daa902961aadf4
 
 dev_dependencies:
   flutter_test:

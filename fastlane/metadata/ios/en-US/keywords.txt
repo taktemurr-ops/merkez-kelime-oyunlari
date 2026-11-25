@@ -1,0 +1,1 @@
+crossword,arrow,puzzle,codeword,cryptogram,sudoku,square,acrostic,hunt,letter,wheel,heap,hive,grid

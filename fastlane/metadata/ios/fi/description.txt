@@ -1,0 +1,18 @@
+Sanapelit kokoaa 30 sanapeliä yhteen sovellukseen omalla ilmeellä. Ruudukot ja ristikot, etsi ja rakenna, arvailu, nopeus, merkitys ja kaksintaistelut; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset. Sanat ovat avoimesti lisensoiduista listoista 18 kielellä; vihjepelit ovat englanniksi ja turkiksi.
+
+• Ruudukot ja ristikot: Ristikko, Nuolikrypto, Koodiristikko, Kryptogrammi, Sanasudoku, Sananeliö, Akrostikon
+• Etsi ja rakenna: Sanajahti, Kirjainpyörä, Sanakasa, Kirjainpesä, Kirjainruudukko, Sanapalikat, Sanapalat, Puuttuvat Kirjaimet
+• Arvailu: Viisi Kirjainta, Arvaa sana -kokoelma (8), Terälehtiarvaus, Sanatikkaat, Kirjainliuku
+• Nopeus ja refleksit: Pikakirjoitus, Putoavat Kirjaimet, Anagrammikisa
+• Merkitys ja kieli: Sama ja Vastakohta, Neljän Ryhmät, Täydennä Sananlasku, Oikeinkirjoitus
+• Vastustajaa vastaan: Sanalauta, Sanakaksintaistelu, Sanaketju, Sanat ja Laskut
+
+Kohokohdat
+• 100 000 tasoa per peli; sanat avoimista listoista 18 kielellä, sopimattomat suodatettu. Sanojen kielen voi valita erikseen.
+• Kymmenen vaikeusporrasta: rento alku, myöhemmin haasteita asiantuntijoille.
+• Vihjeet paljastavat kirjaimia, poistavat vääriä vaihtoehtoja tai näyttävät seuraavan sanan.
+• Päivä- ja viikkotasot, tehtävät, saavutukset ja 33 kieltä.
+• Pelattavissa ilman verkkoa puhelimella, tabletilla ja verkossa.
+• Ei rahapelejä, vedonlyöntiä tai K18-sisältöä; sopii kaikenikäisille.
+
+Ostokset (esim. mainoksettomuus) koskevat kaikkia sovelluksen pelejä.

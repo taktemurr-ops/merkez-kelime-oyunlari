@@ -37,6 +37,7 @@ import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
 
 import 'approved_style.dart';
+import 'store_flavor.dart';
 
 /// Kelime Oyunları: bulmaca ve ızgara, bul ve kur, tahmin, hız, anlam ve
 /// rakibe karşı kelime oyunlarını tek uygulamada toplar. Her oyunun kaydı,
@@ -420,4 +421,7 @@ final hubConfig = HubConfig(
 /// Uygulama içi gizlilik politikası (Ayarlar → Gizlilik politikası). Mağaza kayıtlarında da aynı adres.
 const privacyUrl = 'https://github.com/taktemurr-ops/merkez-kelime-oyunlari/blob/main/PRIVACY.md';
 
-void main() => bootstrapApprovedHub(hubConfig, approvedStyle, privacyUrl: privacyUrl);
+void main() {
+  registerStoreFlavor();
+  bootstrapApprovedHub(hubConfig, approvedStyle, privacyUrl: privacyUrl);
+}

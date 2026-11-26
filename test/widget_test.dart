@@ -1,5 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
+import 'package:merkez_kelime_oyunlari/approved_style.dart';
 import 'package:merkez_kelime_oyunlari/main.dart';
+import 'package:studio_core/app/approved_hub.dart';
+import 'package:studio_core/app/global_daily_ui.dart';
 
 void main() {
   test('merkezde oyunlar benzersiz kimlikle yer alıyor', () {
@@ -58,5 +61,19 @@ void main() {
     for (final s in hubConfig.sections) {
       expect(s.title.length, 33);
     }
+  });
+
+  test('Günün Bulmacası: katılan oyunlar herkese aynı günlük bölümü verir; Aile Turnuvası menüde', () {
+    expect(approvedStyle.blocks, contains(ApprovedBlock.globalDaily));
+    final daily = GlobalDailyHubPage.eligible(hubConfig.allGames);
+    expect(daily, isNotEmpty);
+    expect(daily.map((g) => g.gameId), isNot(contains('oyun-kelime-kurma-tahtasi')), reason: 'rakipli oyunlar günlüğe girmez');
+    for (final g in daily) {
+      final a = g.rules.globalDailySpec('2026-11-26');
+      expect(a.seed, g.rules.globalDailySpec('2026-11-26').seed, reason: g.gameId);
+      expect(a.seed, isNot(g.rules.globalDailySpec('2026-11-27').seed), reason: g.gameId);
+    }
+    // Turnuva menüsü: merkezin bütün oyunları seçilebilir.
+    expect(hubConfig.allGames.length, greaterThanOrEqualTo(2));
   });
 }

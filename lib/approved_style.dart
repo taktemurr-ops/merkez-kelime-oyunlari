@@ -10,7 +10,7 @@ const approvedStyle = ApprovedHubStyle(
   number: Color(0xFFFF6BD0),
   heroAsset: 'assets/approved/hero.png',
   heroTitle: true,
-  blocks: [ApprovedBlock.search, ApprovedBlock.featured],
+  blocks: [ApprovedBlock.search, ApprovedBlock.globalDaily, ApprovedBlock.featured],
   featuredKey: 'featured',
   featured: ['oyun-kelime-avi', 'oyun-cengel-bulmaca', 'oyun-adam-asmaca', 'oyun-ters-kelime-anagram-yarisi'],
   tileArt: {

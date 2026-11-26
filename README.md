@@ -2,6 +2,14 @@
 
 Kelime ailesinin **merkez uygulaması**: 30 oyunu ve 8 çeşitlik tahmin paketini tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [kelime-motoru](https://github.com/taktemurr-ops/kelime-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Kelime listeleri: FrequencyWords (OpenSubtitles 2018, CC BY-SA 4.0), uygunsuz kelime süzgeci LDNOOBW (CC BY 4.0).
 
+## Günün Bulmacası (küresel günlük meydan okuma)
+
+Ana sayfadaki kart ve menüdeki **Günün Bulmacası**: katılan her oyunda dünyadaki herkes aynı UTC gününde aynı bulmacayı çözer (tohum yalnızca oyun + gün; motor bölümü verir, `GameRules.globalDailySpec`). Günün ilk çözümü sıralamaya girer (süre/hamle ya da puan), seri ve en iyi seri tutulur, sonuç bulmacayı ele vermeyen emoji izli metinle paylaşılır. Çevrimdışı çözülen sonuç cihazda bekler, bağlantı gelince gönderilir (Firestore `daily/{tablo}/results/{uid}`, kurallar ve emülatör testleri studio-core'da).
+
+## Aile Turnuvası
+
+Menüdeki **Aile Turnuvası** (Parti ve Aile merkezinde ana sayfada da): aynı cihazda 2–8 kişi, merkezin oyunlarından seçilenlerle 1–5 tur. Sırayla oynanan oyunlarda herkes aynı bölümü oynar (1.: 3, 2.: 2, 3.: 1 puan); birlikte oynanan oyunlarda kalabalık aileler gruplara ayrılır. Puan tablosu, şampiyon töreni ve kaldığı yerden devam; çevrimiçi bağlantı, reklam ya da kişisel bilgi yok (takma adlar yalnızca cihazda).
+
 | Oyun | Depo |
 |---|---|
 | Çengel Bulmaca | [oyun-cengel-bulmaca](https://github.com/taktemurr-ops/oyun-cengel-bulmaca) |

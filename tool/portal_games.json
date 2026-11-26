@@ -1,0 +1,17 @@
+[
+  {
+    "id": "oyun-5-harfli-kelime-tahmini",
+    "config": "besHarfConfig",
+    "title": "Five Letter Word"
+  },
+  {
+    "id": "oyun-kelime-avi",
+    "config": "kelimeAviConfig",
+    "title": "Word Search"
+  },
+  {
+    "id": "oyun-adam-asmaca",
+    "config": "yaprakConfig",
+    "title": "Hangman Leaves"
+  }
+]

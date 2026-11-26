@@ -1,10 +1,10 @@
-Slovní hry spojuje 30 slovních her v jedné aplikaci s vlastním designem. Mřížky a křížovky, hledání a skládání, hádání, rychlost, význam a souboje; každá hra má vlastní postup, mise a úspěchy. Slova pocházejí z otevřeně licencovaných seznamů v 18 jazycích; hry s nápovědami jsou anglicky a turecky.
+Slovní hry spojuje 34 slovních her v jedné aplikaci s vlastním designem. Mřížky a křížovky, hledání a skládání, hádání, rychlost, význam a souboje; každá hra má vlastní postup, mise a úspěchy. Slova pocházejí z otevřeně licencovaných seznamů v 18 jazycích; hry s nápovědami jsou anglicky a turecky.
 
 • Mřížky a křížovky: Křížovka, Švédská křížovka, Šifrovaná křížovka, Kryptogram, Slovní sudoku, Slovní čtverec, Akrostich
-• Hledej a skládej: Lov slov, Kolo písmen, Hromada slov, Písmenný úl, Mřížka písmen, Slovní bloky, Kousky slov, Chybějící písmena
-• Hádání: Pět písmen, Sbírka Hádej slovo (8), Hádej s okvětím, Slovní žebřík, Posuvná písmena
+• Hledej a skládej: Lov slov, Kolo písmen, Hromada slov, Písmenný úl, Mřížka písmen, Slovní bloky, Kousky slov, Chybějící písmena, Písmenková krabice, Hon na téma
+• Hádání: Pět písmen, Sbírka Hádej slovo (8), Hádej s okvětím, Slovní žebřík, Posuvná písmena, Čtyři obrázky jedno slovo
 • Rychlost a reflexy: Rychlé psaní, Padající písmena, Závod anagramů
-• Význam a jazyk: Stejné a Opačné, Čtveřice, Doplň přísloví, Piš správně
+• Význam a jazyk: Stejné a Opačné, Čtveřice, Doplň přísloví, Piš správně, Pět vodítek
 • Proti soupeři: Slovní deska, Slovní duel, Slovní řetěz, Slova a počty
 
 Hlavní přednosti

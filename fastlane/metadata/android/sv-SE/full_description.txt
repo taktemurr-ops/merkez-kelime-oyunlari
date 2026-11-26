@@ -1,10 +1,10 @@
-Ordspel samlar 30 ordspel i en app med egen design. Rutnät och korsord, hitta och bygg, gissning, fart, betydelse och dueller; varje spel har egna framsteg, uppdrag och prestationer. Orden kommer från öppet licensierade listor på 18 språk; spel med ledtrådar finns på engelska och turkiska.
+Ordspel samlar 34 ordspel i en app med egen design. Rutnät och korsord, hitta och bygg, gissning, fart, betydelse och dueller; varje spel har egna framsteg, uppdrag och prestationer. Orden kommer från öppet licensierade listor på 18 språk; spel med ledtrådar finns på engelska och turkiska.
 
 • Rutnät och korsord: Korsord, Korsord med Pilar, Kodord, Kryptogram, Ordsudoku, Ordkvadrat, Akrostikon
-• Hitta och bygg: Ordjakt, Bokstavshjul, Ordhög, Bokstavskupa, Bokstavsrutnät, Ordblock, Ordbitar, Saknade Bokstäver
-• Gissning: Fem Bokstäver, Gissa Ordet-samling (8), Kronbladsgissning, Ordstege, Bokstavsglid
+• Hitta och bygg: Ordjakt, Bokstavshjul, Ordhög, Bokstavskupa, Bokstavsrutnät, Ordblock, Ordbitar, Saknade Bokstäver, Bokstavslådan, Temajakt
+• Gissning: Fem Bokstäver, Gissa Ordet-samling (8), Kronbladsgissning, Ordstege, Bokstavsglid, Fyra bilder ett ord
 • Fart och reflexer: Snabbskrivning, Fallande Bokstäver, Anagramlopp
-• Betydelse och språk: Lika och Motsats, Fyrgrupper, Fyll i Ordspråket, Stava Rätt
+• Betydelse och språk: Lika och Motsats, Fyrgrupper, Fyll i Ordspråket, Stava Rätt, Fem ledtrådar
 • Mot en motståndare: Ordbräde, Ordduell, Ordkedja, Ord & Räkning
 
 Höjdpunkter

@@ -1,10 +1,10 @@
-Jeux de Mots réunit 30 jeux de mots dans une app au design original. Grilles et mots croisés, trouver et construire, devinettes, vitesse, sens et duels ; chaque jeu garde sa progression, ses missions et ses succès. Les mots proviennent de listes sous licence ouverte en 18 langues ; les jeux à définitions sont en anglais et en turc.
+Jeux de Mots réunit 34 jeux de mots dans une app au design original. Grilles et mots croisés, trouver et construire, devinettes, vitesse, sens et duels ; chaque jeu garde sa progression, ses missions et ses succès. Les mots proviennent de listes sous licence ouverte en 18 langues ; les jeux à définitions sont en anglais et en turc.
 
 • Grilles et mots croisés: Mots Croisés, Mots Fléchés, Mots Codés, Cryptogramme, Sudoku de Lettres, Carré de Mots, Acrostiche
-• Trouver et construire: Chasse aux Mots, Roue de Lettres, Tas de Mots, Ruche de Lettres, Grille de Lettres, Blocs de Mots, Morceaux de Mots, Lettres Manquantes
-• Devinettes: Cinq Lettres, Collection Devine le Mot (8), Pétales Devinettes, Échelle de Mots, Lettres Glissantes
+• Trouver et construire: Chasse aux Mots, Roue de Lettres, Tas de Mots, Ruche de Lettres, Grille de Lettres, Blocs de Mots, Morceaux de Mots, Lettres Manquantes, Boîte à lettres, Chasse au thème
+• Devinettes: Cinq Lettres, Collection Devine le Mot (8), Pétales Devinettes, Échelle de Mots, Lettres Glissantes, Quatre images un mot
 • Vitesse et réflexes: Frappe Rapide, Lettres qui Tombent, Course d’Anagrammes
-• Sens et langue: Pareil et Contraire, Groupes de Quatre, Proverbe à Trou, Bien Écrit
+• Sens et langue: Pareil et Contraire, Groupes de Quatre, Proverbe à Trou, Bien Écrit, Cinq indices
 • Contre un adversaire: Plateau de Mots, Duel de Mots, Chaîne de Mots, Mots et Calculs
 
 Points forts

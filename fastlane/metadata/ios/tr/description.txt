@@ -1,10 +1,10 @@
-Kelime Oyunları, 30 kelime oyununu stüdyonun kendine özgü tasarımıyla tek uygulamada toplar. Bulmaca ve ızgaralar, bul ve kur, tahmin, hız, anlam ve rakibe karşı oyunlar; her oyunun ilerlemesi, görevleri ve başarımları ayrıdır. Kelimeler 18 dilde açık lisanslı listelerden gelir; ipuçlu oyunlar Türkçe ve İngilizce oynanır.
+Kelime Oyunları, 34 kelime oyununu stüdyonun kendine özgü tasarımıyla tek uygulamada toplar. Bulmaca ve ızgaralar, bul ve kur, tahmin, hız, anlam ve rakibe karşı oyunlar; her oyunun ilerlemesi, görevleri ve başarımları ayrıdır. Kelimeler 18 dilde açık lisanslı listelerden gelir; ipuçlu oyunlar Türkçe ve İngilizce oynanır.
 
 • Bulmaca ve ızgara: Çengel Bulmaca, Kare Bulmaca, Şifreli Bulmaca, Kriptogram, Kelime Sudoku, Kelime Kafesi, Akrostiş
-• Bul ve kur: Kelime Avı, Harf Çarkı, Kelime Yığını, Harf Peteği, Harf Izgarası, Kelime Blokları, Kelime Yapbozu, Eksik Harfler
-• Tahmin: Beş Harf, Kelime Tahmini Paketi (8), Yaprak Tahmini, Kelime Merdiveni, Harf Kaydırma
+• Bul ve kur: Kelime Avı, Harf Çarkı, Kelime Yığını, Harf Peteği, Harf Izgarası, Kelime Blokları, Kelime Yapbozu, Eksik Harfler, Harf Kutusu, Tema Avı
+• Tahmin: Beş Harf, Kelime Tahmini Paketi (8), Yaprak Tahmini, Kelime Merdiveni, Harf Kaydırma, Dört Resim Bir Kelime
 • Hız ve refleks: Hızlı Klavye, Düşen Harfler, Anagram Yarışı
-• Anlam ve dil: Eş ve Zıt, Dörtlü Gruplar, Atasözü Tamamla, Doğru Yazım
+• Anlam ve dil: Eş ve Zıt, Dörtlü Gruplar, Atasözü Tamamla, Doğru Yazım, Beş İpucu
 • Rakibe karşı: Kelime Tahtası, Kelime Düellosu, Kelime Zinciri, Harf ve Sayı Yarışı
 
 Öne çıkanlar

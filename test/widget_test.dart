@@ -38,6 +38,10 @@ void main() {
       'oyun-kelime-duellosu',
       'oyun-kelime-zinciri',
       'oyun-harf-ve-sayi-yarisi',
+      'oyun-dort-resim-bir-kelime',
+      'oyun-bes-ipucu',
+      'oyun-harf-kutusu',
+      'oyun-kelime-avi-tema',
     ]);
     final all = hubConfig.allGames.map((g) => g.gameId).toList();
     expect(all.length, ids.length + 8);

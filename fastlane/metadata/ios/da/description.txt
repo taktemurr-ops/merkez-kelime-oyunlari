@@ -1,10 +1,10 @@
-Ordspil samler 30 ordspil i én app med eget design. Gitre og krydsord, find og byg, gæt, fart, betydning og dueller; hvert spil har egne fremskridt, missioner og bedrifter. Ordene kommer fra åbent licenserede lister på 18 sprog; spil med ledetråde er på engelsk og tyrkisk.
+Ordspil samler 34 ordspil i én app med eget design. Gitre og krydsord, find og byg, gæt, fart, betydning og dueller; hvert spil har egne fremskridt, missioner og bedrifter. Ordene kommer fra åbent licenserede lister på 18 sprog; spil med ledetråde er på engelsk og tyrkisk.
 
 • Gitre og krydsord: Krydsord, Pilekrydsord, Kodeord, Kryptogram, Ordsudoku, Ordkvadrat, Akrostikon
-• Find og byg: Ordjagt, Bogstavhjul, Ordbunke, Bogstavbikube, Bogstavgitter, Ordblokke, Ordstykker, Manglende Bogstaver
-• Gætteleg: Fem Bogstaver, Gæt Ordet-samling (8), Kronbladsgæt, Ordstige, Bogstavglid
+• Find og byg: Ordjagt, Bogstavhjul, Ordbunke, Bogstavbikube, Bogstavgitter, Ordblokke, Ordstykker, Manglende Bogstaver, Bogstavkassen, Temajagt
+• Gætteleg: Fem Bogstaver, Gæt Ordet-samling (8), Kronbladsgæt, Ordstige, Bogstavglid, Fire billeder ét ord
 • Fart og reflekser: Hurtigskrivning, Faldende Bogstaver, Anagramløb
-• Betydning og sprog: Ens og Modsat, Firegrupper, Udfyld Ordsproget, Stav Rigtigt
+• Betydning og sprog: Ens og Modsat, Firegrupper, Udfyld Ordsproget, Stav Rigtigt, Fem spor
 • Mod en modstander: Ordbræt, Ordduel, Ordkæde, Ord & Regning
 
 Højdepunkter

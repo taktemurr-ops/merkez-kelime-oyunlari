@@ -1,10 +1,10 @@
-Ordspill samler 30 ordspill i én app med eget design. Rutenett og kryssord, finn og bygg, gjetting, fart, betydning og dueller; hvert spill har egen fremgang, oppdrag og prestasjoner. Ordene kommer fra åpent lisensierte lister på 18 språk; spill med hint er på engelsk og tyrkisk.
+Ordspill samler 34 ordspill i én app med eget design. Rutenett og kryssord, finn og bygg, gjetting, fart, betydning og dueller; hvert spill har egen fremgang, oppdrag og prestasjoner. Ordene kommer fra åpent lisensierte lister på 18 språk; spill med hint er på engelsk og tyrkisk.
 
 • Rutenett og kryssord: Kryssord, Pilkryssord, Kodeord, Kryptogram, Ordsudoku, Ordkvadrat, Akrostikon
-• Finn og bygg: Ordjakt, Bokstavhjul, Ordhaug, Bokstavkube, Bokstavrutenett, Ordblokker, Ordbiter, Manglende Bokstaver
-• Gjetting: Fem Bokstaver, Gjett Ordet-samling (8), Kronbladgjetting, Ordstige, Bokstavglid
+• Finn og bygg: Ordjakt, Bokstavhjul, Ordhaug, Bokstavkube, Bokstavrutenett, Ordblokker, Ordbiter, Manglende Bokstaver, Bokstavboksen, Temajakt
+• Gjetting: Fem Bokstaver, Gjett Ordet-samling (8), Kronbladgjetting, Ordstige, Bokstavglid, Fire bilder ett ord
 • Fart og reflekser: Hurtigskriving, Fallende Bokstaver, Anagramløp
-• Betydning og språk: Likt og Motsatt, Firegrupper, Fyll inn Ordtaket, Stav Riktig
+• Betydning og språk: Likt og Motsatt, Firegrupper, Fyll inn Ordtaket, Stav Riktig, Fem hint
 • Mot en motstander: Ordbrett, Ordduell, Ordkjede, Ord & Regning
 
 Høydepunkter

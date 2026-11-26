@@ -1,10 +1,10 @@
-Jocuri de Cuvinte reunește 30 jocuri de cuvinte într-o aplicație cu design propriu. Careuri și rebusuri, caută și construiește, ghicit, viteză, sens și dueluri; fiecare joc are progresul, misiunile și realizările sale. Cuvintele vin din liste cu licență deschisă în 18 limbi; jocurile cu indicii sunt în engleză și turcă.
+Jocuri de Cuvinte reunește 34 jocuri de cuvinte într-o aplicație cu design propriu. Careuri și rebusuri, caută și construiește, ghicit, viteză, sens și dueluri; fiecare joc are progresul, misiunile și realizările sale. Cuvintele vin din liste cu licență deschisă în 18 limbi; jocurile cu indicii sunt în engleză și turcă.
 
 • Grile și careuri: Cuvinte încrucișate, Careu cu Săgeți, Careu Codat, Criptogramă, Sudoku cu Litere, Pătratul Cuvintelor, Acrostih
-• Caută și formează: Vânătoare de cuvinte, Roata Literelor, Grămada de Cuvinte, Stupul de Litere, Grila de Litere, Blocuri de Cuvinte, Bucăți de Cuvinte, Litere Lipsă
-• Ghicit: Cinci Litere, Colecția Ghicește Cuvântul (8), Ghicitoarea Petalelor, Scara Cuvintelor, Litere Glisante
+• Caută și formează: Vânătoare de cuvinte, Roata Literelor, Grămada de Cuvinte, Stupul de Litere, Grila de Litere, Blocuri de Cuvinte, Bucăți de Cuvinte, Litere Lipsă, Cutia cu litere, Vânătoarea temei
+• Ghicit: Cinci Litere, Colecția Ghicește Cuvântul (8), Ghicitoarea Petalelor, Scara Cuvintelor, Litere Glisante, Patru imagini un cuvânt
 • Viteză și reflexe: Tastare Rapidă, Litere Căzătoare, Cursa Anagramelor
-• Sens și limbă: Sinonime și Antonime, Grupuri de Patru, Completează Proverbul, Scrie Corect
+• Sens și limbă: Sinonime și Antonime, Grupuri de Patru, Completează Proverbul, Scrie Corect, Cinci indicii
 • Contra unui rival: Tabla de Cuvinte, Duel de Cuvinte, Lanțul Cuvintelor, Cuvinte și Calcule
 
 Puncte forte

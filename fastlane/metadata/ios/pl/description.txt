@@ -1,10 +1,10 @@
-Gry Słowne łączy 30 gier słownych w jednej aplikacji o własnym wyglądzie. Siatki i krzyżówki, szukanie i układanie, zgadywanie, szybkość, znaczenie i pojedynki; każda gra ma własne postępy, misje i osiągnięcia. Słowa pochodzą z otwarcie licencjonowanych list w 18 językach; gry z hasłami są po angielsku i turecku.
+Gry Słowne łączy 34 gier słownych w jednej aplikacji o własnym wyglądzie. Siatki i krzyżówki, szukanie i układanie, zgadywanie, szybkość, znaczenie i pojedynki; każda gra ma własne postępy, misje i osiągnięcia. Słowa pochodzą z otwarcie licencjonowanych list w 18 językach; gry z hasłami są po angielsku i turecku.
 
 • Siatki i krzyżówki: Krzyżówka, Panoramiczna, Krzyżówka Szyfrowa, Kryptogram, Sudoku Słowne, Kwadrat Słów, Akrostych
-• Szukaj i układaj: Łowca Słów, Koło Liter, Stos Słów, Ul Liter, Siatka Liter, Bloki Słów, Kawałki Słów, Brakujące Litery
-• Zgadywanie: Pięć Liter, Zbiór Zgadnij Słowo (8), Zgadnij Płatki, Drabina Słów, Przesuwanki Liter
+• Szukaj i układaj: Łowca Słów, Koło Liter, Stos Słów, Ul Liter, Siatka Liter, Bloki Słów, Kawałki Słów, Brakujące Litery, Skrzynka liter, Łowy tematyczne
+• Zgadywanie: Pięć Liter, Zbiór Zgadnij Słowo (8), Zgadnij Płatki, Drabina Słów, Przesuwanki Liter, Cztery obrazki jedno słowo
 • Szybkość i refleks: Szybkie Pisanie, Spadające Litery, Wyścig Anagramów
-• Znaczenie i język: Synonimy i Antonimy, Czwórki, Dokończ Przysłowie, Pisz Poprawnie
+• Znaczenie i język: Synonimy i Antonimy, Czwórki, Dokończ Przysłowie, Pisz Poprawnie, Pięć wskazówek
 • Przeciw rywalowi: Plansza Słów, Pojedynek Słów, Łańcuch Słów, Słowa i Rachunki
 
 Najważniejsze

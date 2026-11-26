@@ -1,10 +1,10 @@
-Trò Chơi Chữ gom 30 trò chơi chữ vào một ứng dụng với thiết kế riêng. Lưới và ô chữ, tìm và ghép, đoán từ, tốc độ, ý nghĩa và đấu chữ; mỗi trò có tiến trình, nhiệm vụ và thành tích riêng. Từ ngữ lấy từ danh sách giấy phép mở ở 18 ngôn ngữ; trò có gợi ý dùng tiếng Anh và tiếng Thổ Nhĩ Kỳ.
+Trò Chơi Chữ gom 34 trò chơi chữ vào một ứng dụng với thiết kế riêng. Lưới và ô chữ, tìm và ghép, đoán từ, tốc độ, ý nghĩa và đấu chữ; mỗi trò có tiến trình, nhiệm vụ và thành tích riêng. Từ ngữ lấy từ danh sách giấy phép mở ở 18 ngôn ngữ; trò có gợi ý dùng tiếng Anh và tiếng Thổ Nhĩ Kỳ.
 
 • Lưới và ô chữ: Ô Chữ, Ô Chữ Mũi Tên, Ô Chữ Mật Mã, Mật Mã Chữ, Sudoku Chữ, Ô Vuông Chữ, Đố Chữ Đầu
-• Tìm và ghép: Săn Từ, Vòng Chữ, Đống Chữ, Tổ Ong Chữ, Lưới Chữ, Khối Chữ, Mảnh Ghép Chữ, Chữ Còn Thiếu
-• Đoán từ: Năm Chữ, Bộ Đoán Từ (8), Đoán Cánh Hoa, Thang Chữ, Trượt Chữ
+• Tìm và ghép: Săn Từ, Vòng Chữ, Đống Chữ, Tổ Ong Chữ, Lưới Chữ, Khối Chữ, Mảnh Ghép Chữ, Chữ Còn Thiếu, Hộp chữ, Săn chủ đề
+• Đoán từ: Năm Chữ, Bộ Đoán Từ (8), Đoán Cánh Hoa, Thang Chữ, Trượt Chữ, Bốn hình một chữ
 • Tốc độ và phản xạ: Gõ Phím Nhanh, Chữ Rơi, Đua Đảo Chữ
-• Ý nghĩa và ngôn ngữ: Đồng & Trái Nghĩa, Nhóm Bốn, Điền Tục Ngữ, Viết Đúng Chính Tả
+• Ý nghĩa và ngôn ngữ: Đồng & Trái Nghĩa, Nhóm Bốn, Điền Tục Ngữ, Viết Đúng Chính Tả, Năm gợi ý
 • Đấu với đối thủ: Bàn Cờ Chữ, Đấu Chữ, Nối Từ, Chữ & Phép Tính
 
 Điểm nổi bật

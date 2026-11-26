@@ -3,12 +3,15 @@ import 'package:oyun_5_harfli_kelime_tahmini/oyun_5_harfli_kelime_tahmini.dart';
 import 'package:oyun_adam_asmaca/oyun_adam_asmaca.dart';
 import 'package:oyun_akrostis/oyun_akrostis.dart';
 import 'package:oyun_atasozu_ve_deyim_tamamlama/oyun_atasozu_ve_deyim_tamamlama.dart';
+import 'package:oyun_bes_ipucu/oyun_bes_ipucu.dart';
 import 'package:oyun_bosluk_doldurma/oyun_bosluk_doldurma.dart';
 import 'package:oyun_cengel_bulmaca/oyun_cengel_bulmaca.dart';
+import 'package:oyun_dort_resim_bir_kelime/oyun_dort_resim_bir_kelime.dart';
 import 'package:oyun_dusen_harfler/oyun_dusen_harfler.dart';
 import 'package:oyun_es_zit_anlam_eslestirme/oyun_es_zit_anlam_eslestirme.dart';
 import 'package:oyun_harf_izgarasi/oyun_harf_izgarasi.dart';
 import 'package:oyun_harf_kaydirma/oyun_harf_kaydirma.dart';
+import 'package:oyun_harf_kutusu/oyun_harf_kutusu.dart';
 import 'package:oyun_harf_ve_sayi_yarisi/oyun_harf_ve_sayi_yarisi.dart';
 import 'package:oyun_heceleme_ve_yazim/oyun_heceleme_ve_yazim.dart';
 import 'package:oyun_kare_bulmaca/oyun_kare_bulmaca.dart';
@@ -143,6 +146,10 @@ final hubConfig = HubConfig(
     duelloConfig,
     kelimeZinciriConfig,
     harfSayiConfig,
+    dortResimConfig,
+    besIpucuConfig,
+    harfKutusuConfig,
+    temaAviConfig,
   ],
   starters: ['oyun-5-harfli-kelime-tahmini', 'oyun-kelime-avi', 'oyun-kelime-turetme'],
   groups: [kelimeTahminiGroup],
@@ -178,6 +185,10 @@ final hubConfig = HubConfig(
     'oyun-petege-harf': GameCover('hive', label: 'PETEKAR'),
     'oyun-sifreli-bulmaca': GameCover('codewordc'),
     'oyun-ters-kelime-anagram-yarisi': GameCover('anagramc', label: 'ANAGRAM'),
+    'oyun-dort-resim-bir-kelime': GameCover('k4_fourpics'),
+    'oyun-bes-ipucu': GameCover('k4_fiveclues'),
+    'oyun-harf-kutusu': GameCover('k4_letterbox'),
+    'oyun-kelime-avi-tema': GameCover('k4_themehunt'),
   },
   defaultCover: const GameCover('letters', label: 'KELIME'),
   sections: [
@@ -254,7 +265,7 @@ final hubConfig = HubConfig(
           'Tìm và ghép',
           'Hanap at buo',
         ],
-        ids: ['oyun-kelime-avi', 'oyun-kelime-turetme', 'oyun-kelime-yigini', 'oyun-petege-harf', 'oyun-harf-izgarasi', 'oyun-kelime-bloklari', 'oyun-kelime-yapbozu', 'oyun-bosluk-doldurma', 'oyun-harf-kaydirma']),
+        ids: ['oyun-kelime-avi', 'oyun-kelime-turetme', 'oyun-kelime-yigini', 'oyun-petege-harf', 'oyun-harf-izgarasi', 'oyun-kelime-bloklari', 'oyun-kelime-yapbozu', 'oyun-bosluk-doldurma', 'oyun-harf-kaydirma', 'oyun-harf-kutusu', 'oyun-kelime-avi-tema']),
     HubSection(
         title: [
           'Tahmin',
@@ -291,7 +302,7 @@ final hubConfig = HubConfig(
           'Đoán từ',
           'Hula',
         ],
-        ids: ['oyun-5-harfli-kelime-tahmini', 'oyun-kelime-tahmini-cesit-paketi', 'oyun-adam-asmaca', 'oyun-kelime-merdiveni']),
+        ids: ['oyun-5-harfli-kelime-tahmini', 'oyun-kelime-tahmini-cesit-paketi', 'oyun-adam-asmaca', 'oyun-kelime-merdiveni', 'oyun-dort-resim-bir-kelime']),
     HubSection(
         title: [
           'Hız ve refleks',
@@ -365,7 +376,7 @@ final hubConfig = HubConfig(
           'Ý nghĩa và ngôn ngữ',
           'Kahulugan at wika',
         ],
-        ids: ['oyun-es-zit-anlam-eslestirme', 'oyun-kelime-gruplama', 'oyun-atasozu-ve-deyim-tamamlama', 'oyun-heceleme-ve-yazim']),
+        ids: ['oyun-es-zit-anlam-eslestirme', 'oyun-kelime-gruplama', 'oyun-atasozu-ve-deyim-tamamlama', 'oyun-heceleme-ve-yazim', 'oyun-bes-ipucu']),
     HubSection(
         title: [
           'Rakibe karşı',

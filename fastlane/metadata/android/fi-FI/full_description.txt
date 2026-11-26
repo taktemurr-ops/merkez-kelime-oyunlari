@@ -1,10 +1,10 @@
-Sanapelit kokoaa 30 sanapeliä yhteen sovellukseen omalla ilmeellä. Ruudukot ja ristikot, etsi ja rakenna, arvailu, nopeus, merkitys ja kaksintaistelut; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset. Sanat ovat avoimesti lisensoiduista listoista 18 kielellä; vihjepelit ovat englanniksi ja turkiksi.
+Sanapelit kokoaa 34 sanapeliä yhteen sovellukseen omalla ilmeellä. Ruudukot ja ristikot, etsi ja rakenna, arvailu, nopeus, merkitys ja kaksintaistelut; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset. Sanat ovat avoimesti lisensoiduista listoista 18 kielellä; vihjepelit ovat englanniksi ja turkiksi.
 
 • Ruudukot ja ristikot: Ristikko, Nuolikrypto, Koodiristikko, Kryptogrammi, Sanasudoku, Sananeliö, Akrostikon
-• Etsi ja rakenna: Sanajahti, Kirjainpyörä, Sanakasa, Kirjainpesä, Kirjainruudukko, Sanapalikat, Sanapalat, Puuttuvat Kirjaimet
-• Arvailu: Viisi Kirjainta, Arvaa sana -kokoelma (8), Terälehtiarvaus, Sanatikkaat, Kirjainliuku
+• Etsi ja rakenna: Sanajahti, Kirjainpyörä, Sanakasa, Kirjainpesä, Kirjainruudukko, Sanapalikat, Sanapalat, Puuttuvat Kirjaimet, Kirjainlaatikko, Teemajahti
+• Arvailu: Viisi Kirjainta, Arvaa sana -kokoelma (8), Terälehtiarvaus, Sanatikkaat, Kirjainliuku, Neljä kuvaa yksi sana
 • Nopeus ja refleksit: Pikakirjoitus, Putoavat Kirjaimet, Anagrammikisa
-• Merkitys ja kieli: Sama ja Vastakohta, Neljän Ryhmät, Täydennä Sananlasku, Oikeinkirjoitus
+• Merkitys ja kieli: Sama ja Vastakohta, Neljän Ryhmät, Täydennä Sananlasku, Oikeinkirjoitus, Viisi vihjettä
 • Vastustajaa vastaan: Sanalauta, Sanakaksintaistelu, Sanaketju, Sanat ja Laskut
 
 Kohokohdat

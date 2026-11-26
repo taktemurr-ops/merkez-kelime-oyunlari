@@ -1,10 +1,10 @@
-Permainan Kata menghimpun 30 permainan kata dalam satu aplikasi dengan desain orisinal. Kisi dan teka-teki silang, cari dan susun, tebak, kecepatan, makna, dan duel; tiap permainan punya kemajuan, misi, dan pencapaian sendiri. Kata berasal dari daftar berlisensi terbuka dalam 18 bahasa; permainan berpetunjuk tersedia dalam bahasa Inggris dan Turki.
+Permainan Kata menghimpun 34 permainan kata dalam satu aplikasi dengan desain orisinal. Kisi dan teka-teki silang, cari dan susun, tebak, kecepatan, makna, dan duel; tiap permainan punya kemajuan, misi, dan pencapaian sendiri. Kata berasal dari daftar berlisensi terbuka dalam 18 bahasa; permainan berpetunjuk tersedia dalam bahasa Inggris dan Turki.
 
 • Kisi dan TTS: Teka-Teki Silang, TTS Panah, Teka Sandi, Kriptogram, Sudoku Kata, Kotak Kata, Akrostik
-• Cari dan susun: Berburu Kata, Roda Huruf, Tumpukan Kata, Sarang Huruf, Kisi Huruf, Blok Kata, Potongan Kata, Huruf Hilang
-• Tebakan: Lima Huruf, Koleksi Tebak Kata (8), Tebak Kelopak, Tangga Kata, Geser Huruf
+• Cari dan susun: Berburu Kata, Roda Huruf, Tumpukan Kata, Sarang Huruf, Kisi Huruf, Blok Kata, Potongan Kata, Huruf Hilang, Kotak Huruf, Berburu Tema
+• Tebakan: Lima Huruf, Koleksi Tebak Kata (8), Tebak Kelopak, Tangga Kata, Geser Huruf, Empat Gambar Satu Kata
 • Kecepatan dan refleks: Mengetik Cepat, Huruf Berjatuhan, Balapan Anagram
-• Makna dan bahasa: Sinonim & Antonim, Kelompok Empat, Lengkapi Peribahasa, Ejaan Tepat
+• Makna dan bahasa: Sinonim & Antonim, Kelompok Empat, Lengkapi Peribahasa, Ejaan Tepat, Lima Petunjuk
 • Melawan lawan: Papan Kata, Duel Kata, Sambung Kata, Kata & Hitung
 
 Sorotan

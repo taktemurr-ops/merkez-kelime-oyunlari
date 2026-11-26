@@ -1,10 +1,10 @@
-A Szójátékok 30 szójátékot gyűjt egy alkalmazásba saját dizájnnal. Rácsok és keresztrejtvények, keresés és építés, találgatás, gyorsaság, jelentés és párbaj; minden játéknak saját haladása, küldetései és eredményei vannak. A szavak 18 nyelvű, nyílt licencű listákból származnak; a meghatározásos játékok angolul és törökül szólnak.
+A Szójátékok 34 szójátékot gyűjt egy alkalmazásba saját dizájnnal. Rácsok és keresztrejtvények, keresés és építés, találgatás, gyorsaság, jelentés és párbaj; minden játéknak saját haladása, küldetései és eredményei vannak. A szavak 18 nyelvű, nyílt licencű listákból származnak; a meghatározásos játékok angolul és törökül szólnak.
 
 • Rácsok és rejtvények: Keresztrejtvény, Svédrejtvény, Kódrejtvény, Kriptogram, Betűsudoku, Szónégyzet, Akrosztichon
-• Keresd és építsd: Szóvadász, Betűkerék, Szókupac, Betűkaptár, Betűrács, Szóblokkok, Szódarabok, Hiányzó Betűk
-• Találgatás: Öt Betű, Szókitaláló Gyűjtemény (8), Szirom-találós, Szólétra, Betűcsúsztató
+• Keresd és építsd: Szóvadász, Betűkerék, Szókupac, Betűkaptár, Betűrács, Szóblokkok, Szódarabok, Hiányzó Betűk, Betűdoboz, Témavadászat
+• Találgatás: Öt Betű, Szókitaláló Gyűjtemény (8), Szirom-találós, Szólétra, Betűcsúsztató, Négy kép egy szó
 • Gyorsaság és reflex: Gyorsgépelés, Hulló Betűk, Anagrammaverseny
-• Jelentés és nyelv: Rokon és Ellentét, Négyes Csoportok, Közmondás-kiegészítő, Helyesírás
+• Jelentés és nyelv: Rokon és Ellentét, Négyes Csoportok, Közmondás-kiegészítő, Helyesírás, Öt nyom
 • Ellenfél ellen: Szótábla, Szópárbaj, Szólánc, Szavak és Számok
 
 Kiemelt

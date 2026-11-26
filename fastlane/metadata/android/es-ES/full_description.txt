@@ -1,10 +1,10 @@
-Juegos de Palabras reúne 30 juegos de palabras en una app con diseño propio. Cuadrículas y crucigramas, buscar y formar, adivinar, velocidad, significado y duelos; cada juego guarda su progreso, misiones y logros. Las palabras vienen de listas con licencia abierta en 18 idiomas; los juegos con pistas son en inglés y turco.
+Juegos de Palabras reúne 34 juegos de palabras en una app con diseño propio. Cuadrículas y crucigramas, buscar y formar, adivinar, velocidad, significado y duelos; cada juego guarda su progreso, misiones y logros. Las palabras vienen de listas con licencia abierta en 18 idiomas; los juegos con pistas son en inglés y turco.
 
 • Cuadrículas y crucigramas: Crucigrama, Autodefinido, Crucigrama Cifrado, Criptograma, Sudoku de Palabras, Cuadrado de Palabras, Acróstico
-• Busca y forma: Caza de Palabras, Rueda de Letras, Montón de Palabras, Panal de Letras, Cuadrícula de Letras, Bloques de Palabras, Piezas de Palabras, Letras Perdidas
-• Adivinar: Cinco Letras, Colección Adivina Palabras (8), Adivina Pétalos, Escalera de Palabras, Desliza Letras
+• Busca y forma: Caza de Palabras, Rueda de Letras, Montón de Palabras, Panal de Letras, Cuadrícula de Letras, Bloques de Palabras, Piezas de Palabras, Letras Perdidas, Caja de letras, Caza de temas
+• Adivinar: Cinco Letras, Colección Adivina Palabras (8), Adivina Pétalos, Escalera de Palabras, Desliza Letras, Cuatro imágenes una palabra
 • Velocidad y reflejos: Mecanografía Veloz, Letras que Caen, Carrera de Anagramas
-• Significado y lengua: Igual y Opuesto, Grupos de Cuatro, Completa el Refrán, Escríbelo Bien
+• Significado y lengua: Igual y Opuesto, Grupos de Cuatro, Completa el Refrán, Escríbelo Bien, Cinco pistas
 • Contra un rival: Tablero de Palabras, Duelo de Palabras, Cadena de Palabras, Palabras y Cuentas
 
 Lo más destacado

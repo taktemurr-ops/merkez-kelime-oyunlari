@@ -1,6 +1,6 @@
 # Kelime Oyunları · Word Games (merkez-kelime-oyunlari)
 
-Kelime ailesinin **merkez uygulaması**: 30 oyunu ve 8 çeşitlik tahmin paketini tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [kelime-motoru](https://github.com/taktemurr-ops/kelime-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Kelime listeleri: FrequencyWords (OpenSubtitles 2018, CC BY-SA 4.0), uygunsuz kelime süzgeci LDNOOBW (CC BY 4.0).
+Kelime ailesinin **merkez uygulaması**: 34 oyunu ve 8 çeşitlik tahmin paketini tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [kelime-motoru](https://github.com/taktemurr-ops/kelime-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Kelime listeleri: FrequencyWords (OpenSubtitles 2018, CC BY-SA 4.0), uygunsuz kelime süzgeci LDNOOBW (CC BY 4.0).
 
 ## Günün Bulmacası (küresel günlük meydan okuma)
 
@@ -43,5 +43,9 @@ Menüdeki **Aile Turnuvası** (Parti ve Aile merkezinde ana sayfada da): aynı c
 | Kelime Düellosu | [oyun-kelime-duellosu](https://github.com/taktemurr-ops/oyun-kelime-duellosu) |
 | Kelime Zinciri | [oyun-kelime-zinciri](https://github.com/taktemurr-ops/oyun-kelime-zinciri) |
 | Harf ve Sayı Yarışı | [oyun-harf-ve-sayi-yarisi](https://github.com/taktemurr-ops/oyun-harf-ve-sayi-yarisi) |
+| Dört Resim Bir Kelime | [oyun-dort-resim-bir-kelime](https://github.com/taktemurr-ops/oyun-dort-resim-bir-kelime) |
+| Beş İpucu | [oyun-bes-ipucu](https://github.com/taktemurr-ops/oyun-bes-ipucu) |
+| Harf Kutusu | [oyun-harf-kutusu](https://github.com/taktemurr-ops/oyun-harf-kutusu) |
+| Tema Avı | [oyun-kelime-avi](https://github.com/taktemurr-ops/oyun-kelime-avi) (kip) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-kelime-oyunlari/releases/download/test/merkez-kelime-oyunlari.apk

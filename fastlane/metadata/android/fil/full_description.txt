@@ -1,10 +1,10 @@
-Pinagsasama ng Mga Laro ng Salita ang 30 laro ng salita sa iisang app na may sariling disenyo. Grid at crossword, hanap at buo, hula, bilis, kahulugan at duwelo; may sariling progreso, misyon at tagumpay ang bawat laro. Galing ang mga salita sa open-license na listahan sa 18 wika; Ingles at Turko ang mga larong may pahiwatig.
+Pinagsasama ng Mga Laro ng Salita ang 34 laro ng salita sa iisang app na may sariling disenyo. Grid at crossword, hanap at buo, hula, bilis, kahulugan at duwelo; may sariling progreso, misyon at tagumpay ang bawat laro. Galing ang mga salita sa open-license na listahan sa 18 wika; Ingles at Turko ang mga larong may pahiwatig.
 
 • Grid at crossword: Crossword, Arrow Puzzle, Codeword, Kriptogram, Sudoku ng Salita, Parisukat ng Salita, Akrostiko
-• Hanap at buo: Hanap-Salita, Gulong ng Titik, Bunton ng Salita, Pulot-pukyutan ng Titik, Grid ng Titik, Bloke ng Salita, Piraso ng Salita, Nawawalang Titik
-• Hula: Limang Titik, Koleksyon ng Hula-Salita (8), Hula-Talulot, Hagdan ng Salita, Slide ng Titik
+• Hanap at buo: Hanap-Salita, Gulong ng Titik, Bunton ng Salita, Pulot-pukyutan ng Titik, Grid ng Titik, Bloke ng Salita, Piraso ng Salita, Nawawalang Titik, Kahon ng Titik, Hanap-Tema
+• Hula: Limang Titik, Koleksyon ng Hula-Salita (8), Hula-Talulot, Hagdan ng Salita, Slide ng Titik, Apat na Larawan Isang Salita
 • Bilis at reflex: Mabilis na Pag-type, Bumabagsak na Titik, Karera ng Anagram
-• Kahulugan at wika: Kasingkahulugan at Kasalungat, Grupo ng Apat, Buuin ang Kasabihan, Tamang Baybay
+• Kahulugan at wika: Kasingkahulugan at Kasalungat, Grupo ng Apat, Buuin ang Kasabihan, Tamang Baybay, Limang Palatandaan
 • Laban sa kalaban: Pisara ng Salita, Duwelo ng Salita, Kadena ng Salita, Salita at Kuwenta
 
 Mga tampok

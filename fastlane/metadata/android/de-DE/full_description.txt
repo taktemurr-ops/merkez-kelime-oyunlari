@@ -1,10 +1,10 @@
-Wortspiele vereint 30 Wortspiele in einer App mit eigenem Design. Gitter und Kreuzworträtsel, Finden und Bauen, Raten, Tempo, Bedeutung und Gegnerspiele; jedes Spiel hat eigenen Fortschritt, Missionen und Erfolge. Wörter stammen aus offen lizenzierten Listen in 18 Sprachen; Rätsel mit Hinweisen gibt es auf Englisch und Türkisch.
+Wortspiele vereint 34 Wortspiele in einer App mit eigenem Design. Gitter und Kreuzworträtsel, Finden und Bauen, Raten, Tempo, Bedeutung und Gegnerspiele; jedes Spiel hat eigenen Fortschritt, Missionen und Erfolge. Wörter stammen aus offen lizenzierten Listen in 18 Sprachen; Rätsel mit Hinweisen gibt es auf Englisch und Türkisch.
 
 • Gitter und Kreuzworträtsel: Kreuzworträtsel, Pfeilrätsel, Codewort-Rätsel, Kryptogramm, Wort-Sudoku, Wortquadrat, Akrostichon
-• Finden und bauen: Wortjagd, Buchstabenrad, Worthaufen, Buchstabenwabe, Buchstabengitter, Wortblöcke, Wortpuzzle, Fehlende Buchstaben
-• Raten: Fünf Buchstaben, Worträtsel-Sammlung (8), Blütenraten, Wortleiter, Buchstabenschieber
+• Finden und bauen: Wortjagd, Buchstabenrad, Worthaufen, Buchstabenwabe, Buchstabengitter, Wortblöcke, Wortpuzzle, Fehlende Buchstaben, Buchstabenkasten, Themenjagd
+• Raten: Fünf Buchstaben, Worträtsel-Sammlung (8), Blütenraten, Wortleiter, Buchstabenschieber, Vier Bilder ein Wort
 • Tempo und Reflexe: Schnelltippen, Fallende Buchstaben, Anagramm-Rennen
-• Bedeutung und Sprache: Gleich & Gegenteil, Vierergruppen, Sprichwort-Lücke, Richtig Schreiben
+• Bedeutung und Sprache: Gleich & Gegenteil, Vierergruppen, Sprichwort-Lücke, Richtig Schreiben, Fünf Hinweise
 • Gegen einen Gegner: Worttafel, Wortduell, Wortkette, Wörter & Zahlen
 
 Highlights

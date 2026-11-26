@@ -1,10 +1,10 @@
-Giochi di Parole riunisce 30 giochi di parole in un’app dal design originale. Griglie e cruciverba, cerca e costruisci, indovina, velocità, significato e sfide; ogni gioco ha progressi, missioni e obiettivi propri. Le parole vengono da elenchi con licenza aperta in 18 lingue; i giochi con definizioni sono in inglese e turco.
+Giochi di Parole riunisce 34 giochi di parole in un’app dal design originale. Griglie e cruciverba, cerca e costruisci, indovina, velocità, significato e sfide; ogni gioco ha progressi, missioni e obiettivi propri. Le parole vengono da elenchi con licenza aperta in 18 lingue; i giochi con definizioni sono in inglese e turco.
 
 • Griglie e cruciverba: Cruciverba, Cruciverba a Frecce, Cruciverba in Codice, Crittogramma, Sudoku di Parole, Quadrato di Parole, Acrostico
-• Cerca e componi: Caccia alle Parole, Ruota di Lettere, Mucchio di Parole, Alveare di Lettere, Griglia di Lettere, Blocchi di Parole, Pezzi di Parole, Lettere Mancanti
-• Indovinelli: Cinque Lettere, Raccolta Indovina Parola (8), Indovina i Petali, Scala di Parole, Lettere Scorrevoli
+• Cerca e componi: Caccia alle Parole, Ruota di Lettere, Mucchio di Parole, Alveare di Lettere, Griglia di Lettere, Blocchi di Parole, Pezzi di Parole, Lettere Mancanti, Scatola di lettere, Caccia al tema
+• Indovinelli: Cinque Lettere, Raccolta Indovina Parola (8), Indovina i Petali, Scala di Parole, Lettere Scorrevoli, Quattro immagini una parola
 • Velocità e riflessi: Digitazione Veloce, Lettere Cadenti, Corsa agli Anagrammi
-• Significato e lingua: Sinonimi e Contrari, Gruppi da Quattro, Completa il Proverbio, Scrivi Giusto
+• Significato e lingua: Sinonimi e Contrari, Gruppi da Quattro, Completa il Proverbio, Scrivi Giusto, Cinque indizi
 • Contro un rivale: Tavola di Parole, Duello di Parole, Catena di Parole, Parole e Conti
 
 In evidenza
